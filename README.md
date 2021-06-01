@@ -18,5 +18,6 @@ A math shell written in Java designed to read and evaluate mathematical expressi
 - [ ] /
 - [ ] \( and \)
 - [ ] ^
+- [ ] %
 - [ ] < and >
 - [ ] =
